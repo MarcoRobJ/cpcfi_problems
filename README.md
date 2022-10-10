@@ -1,9 +1,9 @@
 # cpcfi_problems
 
-- NAME:
-- CODEFORCES USER: 
-- GENERATION NUMBER:
-- MOST DIFFICULT TOPIC: 
+- NAME: Marco Antonio Robles Jimenez
+- CODEFORCES USER: marcobjz
+- GENERATION NUMBER: 2nd
+- MOST DIFFICULT TOPIC: Graphs
 
 # How to use this repo?
 
